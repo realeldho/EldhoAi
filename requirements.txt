@@ -1,0 +1,11 @@
+customtkinter
+openai
+python-dotenv
+tavily-python
+pypdf
+python-docx
+Pillow
+sounddevice
+numpy
+pyttsx3
+nvidia-riva-client

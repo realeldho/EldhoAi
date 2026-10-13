@@ -1,0 +1,48 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.*
+
+# Python bytecode, caches, virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.python-version.local
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# User data and diagnostics
+/data/
+data/
+logs/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# PyInstaller/build outputs and packaged binaries
+/build/
+/dist/
+build/
+dist/
+*.spec
+*.exe
+*.dll
+
+# IDE/editor and OS files
+.idea/
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Installer artifacts (publish these as GitHub Release assets)
+EldhoAi_Setup_*.exe

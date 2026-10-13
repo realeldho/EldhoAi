@@ -1,0 +1,23 @@
+ELDHOAI PERSONAL-USE LICENSE
+Copyright (c) 2026 REAL_ELDHO / EldhoAi. All rights reserved.
+
+The EldhoAi repository is made publicly visible for inspection. Public visibility
+is not a grant of an open-source license.
+
+Permission is granted to download and run official, unmodified EldhoAi release
+binaries published by REAL_ELDHO for personal, non-commercial use only.
+
+Unless the copyright holder gives prior written permission, you may not copy,
+modify, adapt, translate, create derivative works from, compile or repackage the
+source code or binaries, redistribute or republish the software, sublicense it,
+sell it, or use it commercially. You may not present an unofficial build as an
+official EldhoAi release.
+
+All rights not expressly granted above are reserved by the copyright holder.
+This notice does not limit rights that applicable law does not allow the
+copyright holder to restrict.
+
+EldhoAi uses third-party packages and external services which are governed by
+their own licenses and terms. NVIDIA and Tavily control their own API access,
+model availability, usage limits, and charges. This custom license is not legal
+advice.
